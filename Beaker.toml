@@ -1,0 +1,4 @@
+name = "counter-dapp"
+
+[wasm]
+template_repo = "https://github.com/kien6034/Cosmwasm-Counter"
